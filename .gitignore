@@ -2,7 +2,7 @@
 coco.txt
 download.txt
 Tracking-and-counting-Using-YOLOv8-and-DeepSORT-main
-deep_sort
+#deep_sort
 ckpt.t7
 bin
 yolov8m.pt
